@@ -3,7 +3,7 @@
 Welcome to the backend of the **Weather-app** full-stack weather application! This backend API handles all the server-side logic, including user authentication. It is built using Node.js, Express, and MongoDB.
 
 ## 🌐 Live Server
-You can access the live server here: [Todo Backend](https://weather-app-backend-4hgb.onrender.com)
+You can access the live server here: [Weather-app Backend](https://weather-app-backend-4hgb.onrender.com)
 
 ## 📂 API Endpoints
 
