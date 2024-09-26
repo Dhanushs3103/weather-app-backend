@@ -1,4 +1,4 @@
-# 🛠️ Weather-App Backend
+# 🌤️ Weather-App Backend
 
 Welcome to the backend of the **Weather-app** full-stack weather application! This backend API handles all the server-side logic, including user authentication. It is built using Node.js, Express, and MongoDB.
 
